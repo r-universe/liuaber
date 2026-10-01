@@ -5,6 +5,3 @@
 [submodule "CompPareto"]
 	path = CompPareto
 	url = https://github.com/liuaber/comppareto
-[submodule "GEC"]
-	path = GEC
-	url = https://github.com/liuaber/gec
